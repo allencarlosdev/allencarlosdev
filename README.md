@@ -1,8 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Carlos Allen</h1>
-![App Screenshot](https://github.com/allencarlosdev/portfolio/blob/main/src/assets/linkedin-portada.png)
-<h3 align="center">FullStack Web Develevoper</h3>
-
+<img alt="linkedin cover" src="https://github.com/allencarlosdev/portfolio/blob/main/src/assets/linkedin-portada.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allencarlosdev&label=Profile%20views&color=0e75b6&style=flat" alt="allencarlosdev" /> </p>
 
 - 👨‍💻 All of my projects are available at [allencarlosdev.com](allencarlosdev.com)
