@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [allencarlosdev.com](allencarlosdev.com)
 
-- 📫 How to reach me **contact@allencarlosdev.com**
+- 📫 How to reach me **allencarlosdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
