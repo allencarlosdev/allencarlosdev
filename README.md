@@ -1,7 +1,7 @@
 <img alt="linkedin cover" src="https://github.com/allencarlosdev/portfolio/blob/main/src/assets/linkedin-portada.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allencarlosdev&label=Profile%20views&color=0e75b6&style=flat" alt="allencarlosdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [allencarlosdev.com](allencarlosdev.com)
+- 👨‍💻 Some of my projects are available at [allencarlosdev.com](allencarlosdev.com)
 
 - 📫 How to reach me **allencarlosdev@gmail.com**
 
