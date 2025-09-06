@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/16209550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16209550" height="30" width="40" /></a>
 <h3 align="left">About me</h3>
 </p>
-<p align="left">Since I was 15 years old I have been passionate about the world of web development, but for things in life, I ended up graduating in Mechanical Engineering. At the end of my degree, I decided that I had to do what I liked and here I am now with 2 years of experience as a web developer.</p>
+<p align="left">Since I was 15 years old I have been passionate about the world of web development, but for things in life, I ended up graduating in Mechanical Engineering. At the end of my degree, I decided that I had to do what I liked and here I am now with 4 years of experience as a Full stack web developer.</p>
 <img align="right" alt="rock coding" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
